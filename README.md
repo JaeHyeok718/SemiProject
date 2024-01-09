@@ -2,7 +2,7 @@
 
 ## 1. 프로젝트 [NILILI]소개🙌
 <img width="500" alt="image" src="https://github.com/JaeHyeok718/SemiProject/assets/149359037/b8918588-4712-4676-9cf6-eec795d75267"> <br><br><br>
-<h3>기존에 존재하였던 여행지 추천사이트의 장단점을 비교해 장점은 살리고 단점은 추가</h3><br><br><br>
+<h3>기존에 존재하였던 여행지 추천사이트의 장,단점을 비교해 장점은 살리고 단점은 기능을 구현하여 추가 ! </h3><br><br><br>
 <img width="500" alt="image" src="https://github.com/JaeHyeok718/SemiProject/assets/149359037/cb45aef9-9219-429a-9569-a701664486b5"><br><br>
 
 ## 2. 작업 과정 📅
