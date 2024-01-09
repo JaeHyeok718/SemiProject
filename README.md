@@ -74,12 +74,3 @@
 ## 7.나의 프로젝트 구현 기능 영상 📹(클릭시 블로그로 연결됩니다)
 <a href="https://blog.naver.com/jangcodingstudy/223316920887"><img src="https://github.com/JaeHyeok718/SemiProject/assets/149359037/0319ea6a-f3b5-42ec-857a-9e01de07a31e"></a>
 
-
-
-
-
-## 5. Contributers
-
-한신대학교 김동건 @wrjs<br> 
-한국산업기술대학교 김민지 @mindi1206<br>
-서울과학기술대학교 오승재 @oh980225<br>
