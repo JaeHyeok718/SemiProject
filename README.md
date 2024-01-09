@@ -1,6 +1,6 @@
-<img width="553" alt="image" src="https://github.com/JaeHyeok718/SemiProject/assets/149359037/57b1e4e1-fcf7-418a-996d-6b9ddc8d70be"># [세미프로젝트]서울여행지 추천 사이트 NILILI 
 
-## 1. 소개🙌
+
+## 1. 프로젝트 [NILILI]소개🙌
 <img width="500" alt="image" src="https://github.com/JaeHyeok718/SemiProject/assets/149359037/b8918588-4712-4676-9cf6-eec795d75267"> <br><br><br>
 <h3>기존에 존재하였던 여행지 추천사이트의 장단점을 비교해 장점은 살리고 단점은 추가</h3><br><br><br>
 <img width="500" alt="image" src="https://github.com/JaeHyeok718/SemiProject/assets/149359037/cb45aef9-9219-429a-9569-a701664486b5"><br><br>
@@ -8,28 +8,73 @@
 ## 2. 작업 과정 📅
 <img width="538" alt="image" src="https://github.com/JaeHyeok718/SemiProject/assets/149359037/9336eba4-2747-4cda-ad1d-4c11c5b584b1">
 
-## 3. 기능 📌
-<img width="553" alt="image" src="https://github.com/JaeHyeok718/SemiProject/assets/149359037/45259385-d506-4a48-bf2f-02f7ec67276f">
+## 3. 전체적인 기능 📌
+1. 회원가입 / 로그인 / ID PWD찾기<br>
+-아이디 저장/ 로그인 정보 저장<br>
+-카카오 주소 API 사용<br>
+2. 마이페이지<br>
+-구독자와 비구독자에게 다른 사용자 인터페이스 적용<br>
+3. 홈페이지 구독기능 <br>
+ -구독자와 비구독자에게 다른 사용자 인터페이스 적용<br>
+ -구독자들에게 월간 편지서비스 제공<br>
+4. 추천 여행지를 소개하는 간단한 게임을 통한 여행지 추천기능(모든 사용자)<br>
+5. 성격을 진단하는 게임을 통하여 최종적으로 결과를 도출하여 맞춤 여행지 소개(구독자전용)<br>
+6. 게시판<br>
+ -Summernote API 사용<br>
+7. 챗봇 구현<br>
+-로그인 과 비로그인 사용자에게 서로 다른 사용자 인터페이스 적용<br>
+
 
 ## 4. What did Use? 🛠️
 </br>
-    Front - ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)<br>
-            ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3&logoColor=white)<br>
-            ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)<br>
-            ![jQuery](https://img.shields.io/badge/-jQuery-%230769AD?style=flat&logo=jquery&logoColor=white)<br>
-            ![AJAX](https://img.shields.io/badge/-AJAX-%23404D59?style=flat)<br>
-    Back - 
-    DB -  
-    Tool - 
-    Was - 
-    Collaboration - 
+    Front - HTML5, CSS3, JavaScript, Jquery, AJAX<br>
+    Back - JAVA, JSP & Servlet<br>
+    DB -  Oracle 11g<br>
+    Tool - Visyal Studio Code, Ecilpse<br>
+    Was - Apache Tomcat 9.0<br>
+    Collaboration - Git / Slack<br>
 
-## 3. Run
-    http://52.78.208.225:8080
-
+## 5.나의 담당 구현 기능 🖐️
+1. 회원가입<br>
+• 아이디, 비밀번호, 이메일, 이름 등 입력 시 유효성 검사와 중복 체크(AJAX)<br>
+• 생년월일 입력 시 해당 월의 일수를 자바스크립트로 계산하여 표시<br>
+• 전화번호 입력 시 중간 자리 4자리를 입력하면 다음 input으로 포커스 이동, 숫자 외 다른 문자 입력 시에 입력이 안되게 적용<br>
+• 주소 입력 시 카카오 주소 API 활용<br>
+• 필수 항목 체크를 하지 않으면 회원가입 버튼 비활성화, 경고창 발생<br>
+• 유효성 검사 실패 시 회원가입 버튼 비활성화 및 해당 항목에 포커스 및 애니메이션 효과 적용<br>
+2. ID/PWD 찾기<br>
+• 보안을 고려하여 입력한 정보가 일치할 시 아이디 중간 3자리 ***로 표시<br>
+• PWD 찾기 시 기존 비밀번호를 보여주지 않고 새로운 비밀번호 수정 유도<br>
+3. 마이페이지<br>
+• 회원 정보 수정 기능 제공<br>
+• 회원 구독 정보에 따라 다른 화면 표시, 구독 내역 제공<br>
+4. 메인화면<br>
+• 전반적인 UI 및 구성 설계<br>
+5. 구독 서비스 구현<br>
+• 세션 정보를 기반으로 구독 여부에 따라 사용자별로 다른 화면 제공<br>
+6. 챗봇 구현<br>
+• 화면 고정 챗봇 제공, 클릭 시 6개 버튼으로 구성<br>
+• 버튼별로 홈페이지 소개, 구독 서비스, 회원가입, ID/PWD 찾기 등 안내<br>
 </br>
 
-## 4. Structure
+## 6. 프로젝트 참여 소감 📖
+이번 프로젝트는 협업과 조화가 필요한 과정에서 많은 도전을 경험하였습니다. <br>
+저희 팀은 전부 첫 프로젝트임과 동시에 비전공자들끼리의 프로젝트로 시작하였는데, 처음에는 어려움이 많았습니다.<br>
+하지만 이를 극복하기 위해 수업에서 배운 내용을 되새기고, 인터넷 자료를 함께 찾아보면서 서로를 의지하고, 함께 문제를 해결하는 데에 있어서 시간이 매우 소중했습니다.<br>
+이런 상황들이 저희 팀이 서로를 이해하고 성장하는 계기로 작용하였습니다. 또한 초반 어려운 경험이 저에게는 크나큰 성장의 원동력이었고, 어려움을 직면했을 때 팀원들과 해결해 나갈 수 있다는 믿음이 생겼습니다.<br>
+저는 프로젝트 전반적인 관리를 맡으면서 팀원들과 화합과 조화를 맞춰가고, 기능에 욕심을 내는 게 아닌 전반적인 강의 때 배운 내용을 토대로 되새겨 보았습니다.<br>
+. 메인페이지 UI부터 회원가입, 로그인 마이페이지 등등 회원에 관한 다양한 기능을 구현하면서 많은 것을 배우고 성장할 수 있었습니다.<br> 
+사용자들의 편의성을 고려한 기능을 개발하고, 특히 카카오 주소 API를 활용하여 주소 관리를 보다 효율적으로 할 수 있었던 것이 뿌듯합니다.<br>
+또한, 구독 서비스와 챗봇 구현을 통해 사용자들에게 추가적인 가치를 제공할 수 있었던 점이 기억에 남습니다.<br> 
+이러한 경험을 통해 팀원들과의 협업능력과 프로젝트 관리 능력을 향상시킬 수 있었고 개발자로서 한단계 더 상장할 수 있는 좋은 기회였습니다.<br>
+앞으로 사용자 중심적인 기능을 개발하고 더 많은 역량을 쌓아 나가는데 좋은 출발점이 되었습니다.<br> 
+마지막으로 팀원들과 함께 노력하고 성장하는 이 경험은 저에게 큰 자산이 되었습니다.<br>
+또한 팀 프로젝트의 화합과 조합을 중요시한 결과 저희 팀이 1등을 하여 굉장히 큰 성취감과 만족감을 느낄 수 있었습니다.<br>
+
+## 7.나의 프로젝트 구현 기능 영상 📹(클릭시 블로그로 연결됩니다)
+<a href="https://blog.naver.com/jangcodingstudy/223316920887"><img src="https://github.com/JaeHyeok718/SemiProject/assets/149359037/0319ea6a-f3b5-42ec-857a-9e01de07a31e"></a>
+
+
 
 
 
