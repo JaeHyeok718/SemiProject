@@ -8,7 +8,11 @@
 ## 2. 작업 과정 📅
 <img width="538" alt="image" src="https://github.com/JaeHyeok718/SemiProject/assets/149359037/9336eba4-2747-4cda-ad1d-4c11c5b584b1">
 
-## 3. 전체적인 기능 📌
+## 3. ERD🗺️
+<img width="656" alt="image" src="https://github.com/JaeHyeok718/SemiProject/assets/149359037/7ce34f96-2c35-438e-bdb1-2a119442a34d">
+
+
+## 4. 전체적인 기능 📌
 1. 회원가입 / 로그인 / ID PWD찾기<br>
 -아이디 저장/ 로그인 정보 저장<br>
 -카카오 주소 API 사용<br>
@@ -25,7 +29,7 @@
 -로그인 과 비로그인 사용자에게 서로 다른 사용자 인터페이스 적용<br>
 
 
-## 4. What did Use? 🛠️
+## 5. What did Use? 🛠️
 </br>
     Front - HTML5, CSS3, JavaScript, Jquery, AJAX<br>
     Back - JAVA, JSP & Servlet<br>
@@ -34,7 +38,7 @@
     Was - Apache Tomcat 9.0<br>
     Collaboration - Git / Slack<br>
 
-## 5.나의 담당 구현 기능 🖐️
+## 6.나의 담당 구현 기능 🖐️
 1. 회원가입<br>
 • 아이디, 비밀번호, 이메일, 이름 등 입력 시 유효성 검사와 중복 체크(AJAX)<br>
 • 생년월일 입력 시 해당 월의 일수를 자바스크립트로 계산하여 표시<br>
@@ -57,7 +61,7 @@
 • 버튼별로 홈페이지 소개, 구독 서비스, 회원가입, ID/PWD 찾기 등 안내<br>
 </br>
 
-## 6. 프로젝트 참여 소감 📖
+## 7. 프로젝트 참여 소감 📖
 이번 프로젝트는 협업과 조화가 필요한 과정에서 많은 도전을 경험하였습니다. <br>
 저희 팀은 전부 첫 프로젝트임과 동시에 비전공자들끼리의 프로젝트로 시작하였는데, 처음에는 어려움이 많았습니다.<br>
 하지만 이를 극복하기 위해 수업에서 배운 내용을 되새기고, 인터넷 자료를 함께 찾아보면서 서로를 의지하고, 함께 문제를 해결하는 데에 있어서 시간이 매우 소중했습니다.<br>
@@ -71,6 +75,6 @@
 마지막으로 팀원들과 함께 노력하고 성장하는 이 경험은 저에게 큰 자산이 되었습니다.<br>
 또한 팀 프로젝트의 화합과 조합을 중요시한 결과 저희 팀이 1등을 하여 굉장히 큰 성취감과 만족감을 느낄 수 있었습니다.<br>
 
-## 7.나의 프로젝트 구현 기능 영상 📹(클릭시 블로그로 연결됩니다)
+## 8.나의 프로젝트 구현 기능 영상 📹(클릭시 블로그로 연결됩니다)
 <a href="https://blog.naver.com/jangcodingstudy/223316920887"><img src="https://github.com/JaeHyeok718/SemiProject/assets/149359037/0319ea6a-f3b5-42ec-857a-9e01de07a31e"></a>
 
