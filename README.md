@@ -74,7 +74,7 @@
 앞으로 사용자 중심적인 기능을 개발하고 더 많은 역량을 쌓아 나가는데 좋은 출발점이 되었습니다.<br> 
 마지막으로 팀원들과 함께 노력하고 성장하는 이 경험은 저에게 큰 자산이 되었습니다.<br>
 또한 팀 프로젝트의 화합과 조합을 중요시한 결과 저희 팀이 1등을 하여 굉장히 큰 성취감과 만족감을 느낄 수 있었습니다.<br>
-
+https://youtu.be/lmVqbufVs3k?si=S43kXjqmZ7gVCbdG
 ## 8.나의 프로젝트 구현 기능 영상 📹(클릭시 블로그로 연결됩니다)
-<a href="https://blog.naver.com/jangcodingstudy/223316920887"><img src="https://github.com/JaeHyeok718/SemiProject/assets/149359037/0319ea6a-f3b5-42ec-857a-9e01de07a31e"></a>
+<a href="https://youtu.be/lmVqbufVs3k?si=S43kXjqmZ7gVCbdG"><img src="https://github.com/JaeHyeok718/SemiProject/assets/149359037/0319ea6a-f3b5-42ec-857a-9e01de07a31e"></a>
 
